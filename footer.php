@@ -35,7 +35,7 @@
 <script src="<?php echo get_template_directory_uri(); ?>/js/common.js"></script>
 
 <?php wp_footer() ?>
-
+<!--11111-->
 <!-- Yandex.Metrika counter --><!-- /Yandex.Metrika counter -->
 <!-- Google Analytics counter --><!-- /Google Analytics counter -->
 </body>
