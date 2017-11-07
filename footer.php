@@ -36,7 +36,7 @@
 
 <?php wp_footer() ?>
 
-<!--added comment-->
+<!--added comment1-->
 
 <!-- Yandex.Metrika counter --><!-- /Yandex.Metrika counter -->
 <!-- Google Analytics counter --><!-- /Google Analytics counter -->
